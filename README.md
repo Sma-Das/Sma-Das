@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity and Software Development
 --------------------------------------
 
-I am a 3<sup>rd</sup> year Computing Security student with a passion for offensive security and software development. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
+I am a 4<sup>th</sup> year Computing Security student with a passion for offensive security and software development. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
 
 *   🌍  I'm based in Dubai
 *   🖥️  See my portfolio at [sma-das.vercel.app](http://sma-das.vercel.app)
