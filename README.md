@@ -8,7 +8,7 @@ I am a 4<sup>th</sup> year Computing Security student with a passion for offensi
 
 *   🌍  I'm based in Dubai
 *   🖥️  See my portfolio at [sma-das.vercel.app](http://sma-das.vercel.app)
-*   ✉️  You can contact me at [smaddas16@gmail.com](mailto:smaddas16@gmail.com)
+*   ✉️  You can contact me at [sd4598@rit.edu](mailto:sd4598@rit.edu)
 *   🚀  I'm currently working on [Developing AWS Cloud Products for RIT](http://rit.edu/dubai)
 *   🧠  I'm learning `Rust` and `Go`
 *   🤝  I'm open to collaborating on any software projects or offensive team exercises
