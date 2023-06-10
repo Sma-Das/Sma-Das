@@ -6,12 +6,12 @@ Cybersecurity and Software Development
 
 I am a 4<sup>th</sup> year Computing Security student with a passion for offensive security and software development. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
 
-*   🌍  I'm based in Dubai
+*   🌍  I'm based in New York
 *   🖥️  See my portfolio at [sma-das.vercel.app](http://sma-das.vercel.app)
 *   ✉️  You can contact me at [sd4598@rit.edu](mailto:sd4598@rit.edu)
-*   🚀  I'm currently working on [Developing AWS Cloud Products for RIT](http://rit.edu/dubai)
+*   🚀  I'm currently working @ IBM
 *   🧠  I'm learning `Rust` and `Go`
-*   🤝  I'm open to collaborating on any software projects or offensive team exercises
+*   🤝  I'm open to collaborating on any software projects or offensive team exercises!
 
 <a href="https://www.github.com/Sma-Das" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sma-Das?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
