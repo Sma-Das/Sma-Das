@@ -46,4 +46,5 @@ I am a 4<sup>th</sup> year Computing Security student with a passion for offensi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Sma-Das" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sma-das" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+Find my experience on <a href="https://sma-das.com"> my portfolio!</a>
 
