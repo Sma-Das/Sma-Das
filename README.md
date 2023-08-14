@@ -7,8 +7,8 @@ Cybersecurity and Software Development
 I am a 4<sup>th</sup> year Computing Security student with a passion for offensive security and software development. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
 
 *   🌍  I'm based in New York
-*   🖥️  See my portfolio at [sma-das.vercel.app](http://sma-das.vercel.app)
-*   ✉️  You can contact me at [sd4598@rit.edu](mailto:sd4598@rit.edu)
+*   🖥️  See my portfolio at [sma-das.vercel.app](http://sma-das.com)
+*   ✉️  You can contact me at [sd4598@rit.edu](mailto:sma@sma-das.com)
 *   🚀  I'm currently working @ IBM
 *   🧠  I'm learning `Rust` and `Go`
 *   🤝  I'm open to collaborating on any software projects or offensive team exercises!
