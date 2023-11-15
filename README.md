@@ -9,7 +9,7 @@ I am a 4<sup>th</sup> year Computing Security student with a passion for offensi
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [sma-das.com](http://sma-das.com)
 *   ✉️  You can contact me at [sma@sma-das.com](mailto:sma@sma-das.com)
-*   🚀  I'm currently working @ IBM
+*   🚀  I'm currently working @ Google
 *   🧠  I'm learning `Rust` and `Go`
 *   🤝  I'm open to collaborating on any software projects or offensive team exercises!
 
