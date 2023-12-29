@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sma Das
 ===============================================================================================================================
 
-Cybersecurity and Software Development
+Cybersecurity and Secure Software Engineering
 --------------------------------------
 
-I am a 4<sup>th</sup> year Computing Security student with a passion for offensive security and software development. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
+I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and Secure Software. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
 
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [sma-das.com](http://sma-das.com)
 *   ✉️  You can contact me at [sma@sma-das.com](mailto:sma@sma-das.com)
-*   🚀  I'm currently working @ Google
-*   🧠  I'm learning `Rust` and `Go`
+*   🚀  I'm currently working @Google
+*   🧠  I'm learning `Go`
 *   🤝  I'm open to collaborating on any software projects or offensive team exercises!
 
 <a href="https://www.github.com/Sma-Das" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sma-Das?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
