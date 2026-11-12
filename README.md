@@ -8,7 +8,7 @@ I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and
 
 *   🌍  I'm based in New York
 
-<a href="https://www.github.com/Sma-Das" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sma-Das?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/Sma-Das?tab=followers" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sma-Das?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
                     
