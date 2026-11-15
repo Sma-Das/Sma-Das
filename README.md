@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity and Secure Software Engineering
 --------------------------------------
 
-I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and Secure Software. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
+Building the Sound of Security @ WMG
 
 *   🌍  I'm based in New York
 
